@@ -1,0 +1,92 @@
+{
+     "todo-tree.general.tags": [
+        "BUG",
+        "FIX",
+        "TODO",
+        "COMPLETED",
+        "CODE USE",
+        "CODE REVIEW",
+        "CODE REFACTOR",
+        "CODE STOCK",
+        "CHANGE STYLE",
+        "DESCRIPTION",
+        "DOCS",
+        "FEATURE",
+        "PARAMS",
+        "ROUTE",
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "COMPLETED": {
+            "background": "#00ff0080",
+            "icon": "check",
+            "gutterIcon": true
+        },
+        "BUG": {
+            "background": "#f80909d7",
+            "icon": "bug",
+            "gutterIcon": true
+        },
+        "TODO": {
+            "background": "#ff000080",
+            "foreground": "white",
+            "gutterIcon": true
+        },
+        "FIX": {
+            "icon": "beaker",
+            "gutterIcon": true
+        },
+        "CODE USE": {
+            "foreground": "white",
+            "background": "#0ff0f0ee",
+            "icon": "code",
+            "iconColour": "#16b8e0ee",
+            "gutterIcon": true
+        },
+        "CODE REVIEW": {
+            "foreground": "white",
+            "background": "#f4f76bee",
+            "icon": "code-review",
+            "gutterIcon": true
+        },
+        "CODE REFACTOR": {
+            "background": "#c717a1ee",
+            "icon": "zap",
+            "gutterIcon": true
+        },
+        "CODE STOCK": {
+            "background": "#14ee14ee",
+            "icon": "database",
+            "gutterIcon": true
+        },
+        "CHANGE STYLE": {
+            "background": "#ff17ecee",
+            "icon": "paintbrush",
+            "gutterIcon": true
+        },
+        "DESCRIPTION": {
+            "background": "#17bdffee",
+            "icon": "file-code",
+            "gutterIcon": true
+        },
+        "DOCS": {
+            "background": "#1b17ffee",
+            "icon": "book",
+            "gutterIcon": true
+        },
+        "FEATURE": {
+            "background": "#ffc717ee",
+            "icon": "eye",
+            "gutterIcon": true
+        },
+        "PARAMS": {
+            "background": "#17ff7fee",
+            "icon": "gear",
+            "gutterIcon": true
+        },
+        "ROUTE": {
+            "background": "#377c22ee",
+            "icon": "mention",
+            "gutterIcon": true
+        }
+    }
+}
